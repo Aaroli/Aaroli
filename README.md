@@ -4,7 +4,7 @@
  * @Author: AaroLi
  * @Date: 2024-01-08 06:14:10
  * @LastEditors: AaroLi
- * @LastEditTime: 2024-01-08 06:27:04
+ * @LastEditTime: 2024-01-08 06:33:17
 -->
 <p align="center">
   <h1 height="200px" align="center">
@@ -55,11 +55,11 @@
 <h2 height="200px" align="center">🎉 About Me</h2>
 <br />
 
-- 🔭 I’m currently working on [TP](https://www.tpynkj.com/)~
+- 🔭 I’m currently working on [TPYN](https://www.tpynkj.com/)~
 - 🏋 I'm passionate about fitness, and it pays off ~
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
 - 👻 I love to share, and currently share technical articles at [juejin](https://juejin.cn/user/3030714707622142)
-- ⛺️ I have a private site: [kunlunxu](https://aaroli.cc), you're welcome to come! ~
+- ⛺️ I have a private site: [AaroLi-Blog](https://aaroli.cc), you're welcome to come! ~
 - 📨 My email address is `aaroli0325@163.com` Welcome to contact me 👏🏻 ~
 
 <!-- 贪吃蛇, 由工作流定时生成 -->
