@@ -1,12 +1,19 @@
-<!-- 标题 + 个人描述, emoji 取自: http://emojihomepage.com -->
+<!--
+ * @Description:
+ * @Version: 1.0
+ * @Author: AaroLi
+ * @Date: 2024-01-08 06:14:10
+ * @LastEditors: AaroLi
+ * @LastEditTime: 2024-01-08 06:27:04
+-->
 <p align="center">
   <h1 height="200px" align="center">
-    God dag <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm MoYuanJun
+    God dag <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm AaroLi
   </h1>
    <p align="center">A Sometimes passion ✨ and sometimes idle 🥋 frontend developer from China 👨‍💻</p>
 </p>
 
-<!-- 
+<!--
   技术栈标签, 小标签来自: https://shields.io/
   1. shields 链接格式: https://img.shields.io/badge/-{标签文本}-{标签背景色}?style={标签类型}&logo={标签前面 Logo}&logoColor={Logo 颜色}
   2. shields 可选 Logo 列表参考: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
@@ -48,12 +55,12 @@
 <h2 height="200px" align="center">🎉 About Me</h2>
 <br />
 
-- 🔭 I’m currently working on [DXY](https://dxy.com/)~
+- 🔭 I’m currently working on [TP](https://www.tpynkj.com/)~
 - 🏋 I'm passionate about fitness, and it pays off ~
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
-- 👻 I love to share, and currently share technical articles at [juejin](https://juejin.cn/user/4459274891717223)
-- ⛺️ I have a private site: [kunlunxu](https://kunlunxu.cc), you're welcome to come! ~
-- 📨 My email address is `moyuanjun@kunlunxu.cc` Welcome to contact me 👏🏻 ~
+- 👻 I love to share, and currently share technical articles at [juejin](https://juejin.cn/user/3030714707622142)
+- ⛺️ I have a private site: [kunlunxu](https://aaroli.cc), you're welcome to come! ~
+- 📨 My email address is `aaroli0325@163.com` Welcome to contact me 👏🏻 ~
 
 <!-- 贪吃蛇, 由工作流定时生成 -->
 <picture>
@@ -92,5 +99,3 @@
     </td>
   </tr>
 </table>
-
-
