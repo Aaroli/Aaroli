@@ -65,7 +65,7 @@
 - 🏋 I'm passionate about fitness, and it pays off ~
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
 - 👻 I love to share, and currently share technical articles at [juejin](https://juejin.cn/user/3030714707622142)
-- ⛺️ I have a private site: [AaroLi-Blog](https://aaroli.cc), you're welcome to come! ~
+- ⛺️ I have a private site: [AaroLi-Blog](https://aaroli.github.io/), you're welcome to come! ~
 - 📨 My email address is `aaroli0325@163.com` Welcome to contact me 👏🏻 ~
 
 <!-- 贪吃蛇, 由工作流定时生成 -->
